@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey! I'm Nikola👋
+
+I started my journey in programming as a self-thought coder. Over the years, I've become passionate about developing and coding web apps. I've always pushed my work towards new frontiers, and that has led me to study programming in depth. Besides coding, I like going to gym, cycling, producing music and traveling.
+
+* 💻 - (ivanovski.dev)[https://ivanovski.dev]
+* :speech_balloon: - (ivanovskinicola@gmail.com)[mailto:ivanovskinicola@gmail.com]
+
 
 <!--
 **nikola-ivanovski/nikola-ivanovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
