@@ -3,7 +3,7 @@
 I started my journey in programming as a self-thought coder. Over the years, I've become passionate about developing and coding web apps. I've always pushed my work towards new frontiers, and that has led me to study programming in depth. Besides coding, I like going to gym, cycling, producing music and traveling.
 
 * 💻 - [ivanovski.dev](https://ivanovski.dev)
-* :speech_balloon: - ivanovskinicola@gmail.com
+* 💬 - ivanovskinicola@gmail.com
 
 
 <!--
