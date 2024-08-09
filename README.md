@@ -1,16 +1,16 @@
-## Hey! I'm Nikola👋
+## Hello! I'm Nikola👋
 
-I started my journey in programming as a self-thought coder. Over the years, I've become passionate about developing and coding web apps. Besides coding, I like going to gym, cycling, producing music and traveling.
+I started my journey in programming as a self-thought coder. Over the years, I've become passionate about developing and coding web apps. Besides coding, I like going to gym, cycling, making music and traveling.
 
 * 💻 - [ivanovski.dev](https://ivanovski.dev)
 * 💬 - ivanovskinicola@gmail.com
-
 
 <!--
 **nikola-ivanovski/nikola-ivanovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+* 🍄 - Full-stack Web Developer @ Digital Present
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
